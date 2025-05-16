@@ -1,5 +1,4 @@
-# BPSK Modulation and Demodulation Project
-
+# Implementation and Analysis of BPSK Modulation Using EMONA and MATLAB Simulink
 ## Table of Contents
 - [Project Overview](#project-overview)  
 - [Why BPSK?](#why-bpsk)  
