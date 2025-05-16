@@ -66,8 +66,8 @@ This project demonstrates the simulation and hardware implementation of **Binary
 <p align="center">
   <table align="center">
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/797e3fa0-1a95-49f0-b96f-00b17ab6c593" width="300"></td>
-      <td><img src="https://github.com/user-attachments/assets/adf4f7b2-7f95-42c2-aaea-50fe75e6f719" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/797e3fa0-1a95-49f0-b96f-00b17ab6c593" width="400"></td>
+      <td><img src="https://github.com/user-attachments/assets/adf4f7b2-7f95-42c2-aaea-50fe75e6f719" width="400"></td>
     </tr>
   </table>
 </p>
