@@ -28,7 +28,7 @@ This project demonstrates the simulation and hardware implementation of **Binary
 - It requires less power compared to more complex modulation schemes.  
 - Commonly used in wireless communication, satellite links, and other digital communication systems.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4c7f903a-e913-413c-9e32-61add458918b" width="400">
+<img src="https://github.com/user-attachments/assets/4c7f903a-e913-413c-9e32-61add458918b" width="300">
 </p>
 
 ---
@@ -50,8 +50,8 @@ This project demonstrates the simulation and hardware implementation of **Binary
 <p align="center">
   <table align="center">
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/661033c8-8208-4e20-a40c-825a1abbeaff" width="300"></td>
-      <td><img src="https://github.com/user-attachments/assets/78b51c74-67eb-46e7-8025-670b61cbd326" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/661033c8-8208-4e20-a40c-825a1abbeaff" width="400"></td>
+      <td><img src="https://github.com/user-attachments/assets/78b51c74-67eb-46e7-8025-670b61cbd326" width="400"></td>
     </tr>
   </table>
 </p>
@@ -82,8 +82,8 @@ This project demonstrates the simulation and hardware implementation of **Binary
 <p align="center">
   <table align="center">
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/facbc75b-d9a4-4aa4-ad2c-c429119906dd" width="300"></td>
-      <td><img src="https://github.com/user-attachments/assets/4fb64733-409b-4ad0-bba0-04a45bfc65af" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/facbc75b-d9a4-4aa4-ad2c-c429119906dd" width="400"></td>
+      <td><img src="https://github.com/user-attachments/assets/4fb64733-409b-4ad0-bba0-04a45bfc65af" width="400"></td>
     </tr>
   </table>
 </p>
@@ -97,8 +97,8 @@ This project demonstrates the simulation and hardware implementation of **Binary
 <p align="center">
   <table align="center">
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/490eb937-39a0-4a60-9c86-6511f1cd6306" width="300"></td>
-      <td><img src="https://github.com/user-attachments/assets/2ab872cc-39e2-469e-ac2c-a352ff43bbe3" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/490eb937-39a0-4a60-9c86-6511f1cd6306" width="400"></td>
+      <td><img src="https://github.com/user-attachments/assets/2ab872cc-39e2-469e-ac2c-a352ff43bbe3" width="400"></td>
     </tr>
   </table>
 </p>
@@ -130,7 +130,7 @@ This project demonstrates the simulation and hardware implementation of **Binary
 - Observed low pass filter outputs at modulation and demodulation stages.  
 - Verified signal behavior under noisy conditions.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ccd4ee6a-0df9-47b2-bb18-299c365e4282" width="400">
+<img src="https://github.com/user-attachments/assets/ccd4ee6a-0df9-47b2-bb18-299c365e4282" width="600">
 </p>
 
 <p align="center">
