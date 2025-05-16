@@ -30,6 +30,7 @@ This project demonstrates the simulation and hardware implementation of **Binary
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4c7f903a-e913-413c-9e32-61add458918b" width="400">
 </p>
+
 ---
 
 ## Mathematical Background
@@ -62,16 +63,57 @@ This project demonstrates the simulation and hardware implementation of **Binary
 
 - Built the product detector circuit for demodulation.  
 - Tested and captured the demodulated output on the Pico-scope.
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/797e3fa0-1a95-49f0-b96f-00b17ab6c593" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/adf4f7b2-7f95-42c2-aaea-50fe75e6f719" width="300"></td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/10f7bcfc-9641-4921-bbb2-b686d6c3bd94" width="400">
+</p>
 
 ### Part C – Restoring Data Using Comparator
 
 - Added a comparator circuit to restore the recovered binary data.  
 - Verified output using hardware and Pico-scope.
-
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/facbc75b-d9a4-4aa4-ad2c-c429119906dd" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/4fb64733-409b-4ad0-bba0-04a45bfc65af" width="300"></td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1df98f4d-e700-4d98-afc3-427071c07ab4" width="400">
+</p>
 ### Part D – Adding Noise to Transmitted Signal
 
 - Added noise of different levels (-20 dB, -6 dB, 0 dB) to the transmitted BPSK signal.  
 - Observed the effect of noise on demodulation performance using Pico-scope.
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/490eb937-39a0-4a60-9c86-6511f1cd6306" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/2ab872cc-39e2-469e-ac2c-a352ff43bbe3" width="300"></td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b876be68-3565-4f97-ad23-7eaddb6dbfb9" width="400">
+</p>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/ac11a1a3-782c-4b14-a21f-5ab87fa1c873" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/914eb737-ee63-4b7f-b1a3-90129255448d" width="300"></td>
+       <td><img src="https://github.com/user-attachments/assets/2ed4311f-adf3-49cc-93a8-22267460ffe5" width="300"></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -81,6 +123,16 @@ This project demonstrates the simulation and hardware implementation of **Binary
 - Compared hardware results with Simulink outputs.  
 - Observed low pass filter outputs at modulation and demodulation stages.  
 - Verified signal behavior under noisy conditions.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ccd4ee6a-0df9-47b2-bb18-299c365e4282" width="400">
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/46d20b4b-889e-437d-a1fc-4a685494bc15" width="400">
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7723b586-e6d7-4842-90d4-2f8ec2371dee" width="400">
+</p>
 
 ---
 
