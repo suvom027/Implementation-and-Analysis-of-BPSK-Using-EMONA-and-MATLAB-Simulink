@@ -11,7 +11,7 @@
   - [Part D – Adding Noise to Transmitted Signal](#part-d--adding-noise-to-transmitted-signal)  
 - [Simulation Results](#simulation-results)  
 - [Conclusion](#conclusion)  
-- [Files Included](#files-included)  
+
 
 ---
 
@@ -88,7 +88,7 @@ This project demonstrates the simulation and hardware implementation of **Binary
   </table>
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1df98f4d-e700-4d98-afc3-427071c07ab4" width="400">
+<img src="https://github.com/user-attachments/assets/163b5d46-721f-4347-8c6d-14a95a6dfc89" width="400">
 </p>
 ### Part D – Adding Noise to Transmitted Signal
 
@@ -110,10 +110,16 @@ This project demonstrates the simulation and hardware implementation of **Binary
     <tr>
       <td><img src="https://github.com/user-attachments/assets/ac11a1a3-782c-4b14-a21f-5ab87fa1c873" width="300"></td>
       <td><img src="https://github.com/user-attachments/assets/914eb737-ee63-4b7f-b1a3-90129255448d" width="300"></td>
-       <td><img src="https://github.com/user-attachments/assets/2ed4311f-adf3-49cc-93a8-22267460ffe5" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/2ed4311f-adf3-49cc-93a8-22267460ffe5" width="300"></td>
+    </tr>
+    <tr align="center">
+      <td><b>Fig 1: BPSK with -20 dB Noise</b></td>
+      <td><b>Fig 2: BPSK with -6 dB Noise</b></td>
+      <td><b>Fig 3: BPSK with 0 dB Noise</b></td>
     </tr>
   </table>
 </p>
+
 
 ---
 
@@ -128,11 +134,14 @@ This project demonstrates the simulation and hardware implementation of **Binary
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/46d20b4b-889e-437d-a1fc-4a685494bc15" width="400">
+  <table align="center">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/46d20b4b-889e-437d-a1fc-4a685494bc15" width="400"></td>
+      <td><img src="https://github.com/user-attachments/assets/7723b586-e6d7-4842-90d4-2f8ec2371dee" width="400"></td>
+    </tr>
+  </table>
 </p>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/7723b586-e6d7-4842-90d4-2f8ec2371dee" width="400">
-</p>
+
 
 ---
 
